@@ -1,0 +1,5 @@
+10-13 16:18:00.839 [main] INFO  c.j.d.d.w.DeviceWorker - scanPage begin :1539418680839
+10-13 16:18:00.998 [main] INFO  c.j.d.d.w.DeviceWorker - scanCount:2 scanPage end :1539418680998 usedTime:159
+10-13 16:18:00.998 [main] INFO  c.j.d.d.w.DeviceWorker - currentPage:1   currentCount:2
+10-13 16:18:00.998 [main] INFO  c.j.d.d.w.DeviceWorker - scan finish
+10-13 16:18:02.082 [main] INFO  c.j.d.d.w.DeviceWorker - all write tasks finish

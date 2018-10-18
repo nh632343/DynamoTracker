@@ -1,0 +1,15 @@
+{
+  "userScanInterval":2000,
+  "anonyScanInterval":2000,
+
+  "maxWrite":5,
+
+  "deviceThreadCount":1,
+  "deviceQueueCap":9999,
+  "thirdUserThreadCount":1,
+  "thirdUserQueueCap":9999,
+  "userDetailThreadCount":1,
+  "userDetailQueueCap":9999,
+  "userThreadCount":1,
+  "userQueueCap":9999
+}

@@ -1,0 +1,4 @@
+10-13 16:18:01.201 [pool-3-thread-1] INFO  c.j.b.w.WriteWorker - write begin:count:5 dao:com.jinke.basecommon.dao.impl.DeviceDynamoDaoImpl time:1539418681201
+10-13 16:18:01.875 [pool-3-thread-1] INFO  c.j.b.w.WriteWorker - write end:count:5 dao:com.jinke.basecommon.dao.impl.DeviceDynamoDaoImpl time:1539418681875 useTime:674
+10-13 16:18:01.875 [pool-3-thread-1] INFO  c.j.b.w.WriteWorker - write begin:count:1 dao:com.jinke.basecommon.dao.impl.DeviceDynamoDaoImpl time:1539418681875
+10-13 16:18:02.082 [pool-3-thread-1] INFO  c.j.b.w.WriteWorker - write end:count:1 dao:com.jinke.basecommon.dao.impl.DeviceDynamoDaoImpl time:1539418682082 useTime:207

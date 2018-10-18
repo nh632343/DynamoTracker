@@ -1,0 +1,4 @@
+10-13 16:18:00.999 [pool-1-thread-1] INFO  c.j.b.w.DeviceItemResultWorker - query begin: open_id:2576541  anony_name:random2
+10-13 16:18:01.161 [pool-1-thread-1] INFO  c.j.b.w.DeviceItemResultWorker - query finish: open_id:2576541  usedtime:162  result:com.amazonaws.services.dynamodbv2.datamodeling.PaginatedQueryList@5df9ed13
+10-13 16:18:01.182 [pool-1-thread-1] INFO  c.j.b.w.DeviceItemResultWorker - query begin: open_id:3594876  anony_name:random
+10-13 16:18:01.198 [pool-1-thread-1] INFO  c.j.b.w.DeviceItemResultWorker - query finish: open_id:3594876  usedtime:16  result:com.amazonaws.services.dynamodbv2.datamodeling.PaginatedQueryList@6ef48c87
